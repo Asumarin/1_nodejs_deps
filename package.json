@@ -1,0 +1,22 @@
+{
+  "name": "1_nodejs_deps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asumarin/1_nodejs_deps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asumarin/1_nodejs_deps/issues"
+  },
+  "homepage": "https://github.com/Asumarin/1_nodejs_deps#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
